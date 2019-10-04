@@ -22,3 +22,7 @@ vpc
 vpce
 
 **terraform OCI:**
+
+**terraform Azure:**
+
+**terraform Digital Ocean:**
