@@ -8,5 +8,3 @@ Exemplo de algusn modulos que trabalho no meu dia a dia.
 **terraform OCI:**
 
 **terraform Azure:**
-
-**terraform Digital Ocean:**
